@@ -1,3 +1,5 @@
-export default function Helloworld(){
-  return <div>This is HElloo  world </div>
+export default function Home() {
+  return (
+        <div>Hello World</div>
+  );
 }
